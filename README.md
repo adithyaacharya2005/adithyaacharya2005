@@ -9,28 +9,24 @@
 ---
 
 ## 🚀 About Me
-
-- 🎓 Computer Science Student
+- 🎓 Information Science and Engineering Student
 - 💻 Passionate about Full Stack Development
 - 🌱 Currently learning **Spring Boot, React.js, Microservices**
 - 🔐 Interested in Backend Development & Security
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **adithyaacharya2021@gmail.com**
 - ⚡ Fun Fact: *I love building real-world software projects.*
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/adithyaacharya2005" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/adithya-acharya09" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="mailto:your-email@example.com">
+<a href="mailto:adithyaacharya2021@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
@@ -40,134 +36,108 @@
 # 💻 Tech Stack
 
 ### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,mysql" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### Frameworks & Libraries
-
+### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,react,bootstrap,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏥 HealthFusion
-Hospital Management System
-
+## 🏥 HFusion
+Full-Stack Healthcare Management System
 ✔ JWT Authentication
-
 ✔ Role-Based Access Control
-
 ✔ Appointment Scheduling
-
 ✔ Billing System
-
 ✔ Medical Records
-
 ✔ Spring Boot + React + MySQL
 
 ---
 
+## 📄 CertX
+AI Powered Document Information Extractor (Mini Project)
+✔ OCR-based Document Data Extraction
+✔ Automated Certificate Processing
+✔ Structured Excel Report Generation
+✔ Python-based AI Solution
+
+---
+
 ## ⚖️ CaseDesk
-
 Legal Case Management System
-
 ✔ Advocate Dashboard
-
 ✔ Client Management
-
 ✔ Case Tracking
-
 ✔ Secure Login
-
 ✔ Spring Boot + React
 
 ---
 
-## 📊 Student Dashboard
-
-✔ Student Analytics
-
-✔ Certificate Upload
-
-✔ CSV Export
-
-✔ Dashboard Reports
-
----
-
 # 📈 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyaacharya2005&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyaacharya2005&theme=tokyonight"/>
 </p>
 
 ---
 
 # 📊 Most Used Languages
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaacharya2005&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=adithyaacharya2005&theme=algolia&margin-w=15"/>
 </p>
 
 ---
 
 # 📈 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyaacharya2005&theme=tokyo-night"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/adithyaacharya2005/adithyaacharya2005/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 # 👀 Visitor Count
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=adithyaacharya2005&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 💬 Quote of the Day
-
 > "Code. Learn. Build. Repeat."
 
 ---
@@ -177,5 +147,4 @@ Legal Case Management System
 ### ⭐ Thanks for visiting my profile ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-
 </p>

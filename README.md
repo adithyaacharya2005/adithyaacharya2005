@@ -94,3 +94,33 @@ Legal Case Management System
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyaacharya2005&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyaacharya2005&theme=tokyonight"/>
 </p>
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/adithya-acharya09" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:adithyaacharya2021@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-00C4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/WEBSITE-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://wa.me/919538229890" target="_blank">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 💬 Quote
+> The best investment you can make is in yourself.
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/adithyaacharya2005/adithyaacharya2005/output/github-contribution-grid-snake.svg"/>
+</p>

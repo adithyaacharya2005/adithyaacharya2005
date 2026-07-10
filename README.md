@@ -37,27 +37,22 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,c" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c,mysql" />
 </p>
 
-### Frontend
+### Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap,nodejs" />
 </p>
 
 ### Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,powerbi" />
 </p>
 
 ---
@@ -98,53 +93,4 @@ Legal Case Management System
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyaacharya2005&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyaacharya2005&theme=tokyonight"/>
-</p>
-
----
-
-# 📊 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaacharya2005&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adithyaacharya2005&theme=algolia&margin-w=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyaacharya2005&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/adithyaacharya2005/adithyaacharya2005/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 👀 Visitor Count
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adithyaacharya2005&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-# 💬 Quote of the Day
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
